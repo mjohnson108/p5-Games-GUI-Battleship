@@ -8,7 +8,7 @@ SYNOPSIS
     
 DESCRIPTION
 
-Play a game of Battleship against a computer opponent. It uses L<Prima> for the GUI and L<Cairo> for the graphics.
+Play a game of Battleship against a computer opponent. It uses Prima for the GUI and Cairo for the graphics.
 
 Menus
 =====
