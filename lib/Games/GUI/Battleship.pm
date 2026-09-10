@@ -15,9 +15,11 @@ use Games::GUI::Battleship::Board;
 use Games::GUI::Battleship::Renderer;
 use Games::GUI::Battleship::AI;
 
+=pod
+
 =head1 NAME
 
-Games::GUI::Battleship - Play Battleship through a GUI
+Games::GUI::Battleship - Play a game of Battleship through a GUI
 
 =head1 VERSION
 
@@ -32,7 +34,7 @@ Version 1.0
 Play a game of Battleship against a computer opponent. It uses L<Prima> for the GUI and L<Cairo> for the graphics.
 
 =for HTML <p>
-<img src="https://raw.githubusercontent.com/mjohnson108/p5-Games-GUI-Battleship/main/example/POD/battleship_screenshot.png" alt="" width="968" height="712">
+<img src="https://github.com/mjohnson108/p5-Games-GUI-Battleship/blob/e80cfa124775dada0a0cefe168e3b980cfb3d7e4/examples/POD/battleship_screenshot.png?raw=true" alt="Screenshot of Battleship program" width="650">
 </p>
 
 =head2 Menus
@@ -80,6 +82,10 @@ L<Logic::Relational>
 =head1 AUTHOR
 
 Matt Johnson, C<< <mjohnson at affectivesilicon.com> >>
+
+=head1 AI
+
+This game was developed with assistance from Gemini Flash 3.8.
 
 =head1 LICENSE AND COPYRIGHT
 
